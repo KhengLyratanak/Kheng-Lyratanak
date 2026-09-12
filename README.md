@@ -18,8 +18,8 @@ I enjoy designing clean backend architectures, working with databases, and imple
 * ☕ Focused on **Java & Spring Boot backend development**
 * 🔐 Learning **Spring Security & JWT Authentication**
 * 🗄️ Working with **MySQL & PostgreSQL**
-* 🧩 Using **JPA/Hibernate, DTO, Mapper & Layered Architecture**
-* 📑 Learning **Pagination, Validation, Exception Handling & Logging**
+* 🧩 Using **JPA/Hibernate, DTO, Mapper & Layered Architecture,Pagination, Validation, Exception Handling & Logging**
+* 📑 Learning **Microservice, React & Devops**
 * 🎯 Looking for a **Java Backend Internship / Junior Developer opportunity**
 
 ---
